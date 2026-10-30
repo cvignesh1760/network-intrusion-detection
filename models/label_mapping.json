@@ -1,0 +1,14 @@
+{
+  "label_to_idx": {
+    "Benign": 0,
+    "Availability": 1,
+    "Reconnaissance": 2,
+    "Spoofing": 3
+  },
+  "idx_to_label": {
+    "0": "Benign",
+    "1": "Availability",
+    "2": "Reconnaissance",
+    "3": "Spoofing"
+  }
+}
